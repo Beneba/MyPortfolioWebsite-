@@ -99,7 +99,7 @@ body {
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1; }
+  line-height: 1.5; }
   body#bg-img {
     background: url(../img/background.jpg);
     background-attachment: fixed;
@@ -136,7 +136,7 @@ a {
 
 header {
   position: fixed;
-  z-index: 2;
+  z-index: 1.5;
   width: 100%; }
 
 .text-secondary {
@@ -190,7 +190,7 @@ main {
   main#home {
     overflow: hidden; }
     main#home h1 {
-      margin-top: 8vh; }
+      margin-top: 6vh; }
 
 .about-info {
   display: grid;
